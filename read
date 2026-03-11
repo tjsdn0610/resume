@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><a href="/self/html1.html"></a>pag1</h1>
+    <h1><a href="/self/html2.html"></a>pag2</h1>
+    <h1><a href="/self/html3.html"></a>pag3</h1>
+    <h1><a href="/self/html4.html"></a>pag4</h1>
+    <h1><a href="/self/html5.html"></a>pag5</h1>
+    <h1><a href="/self/html6.html"></a>pag6</h1>
+    <h1><a href="/self/html7.html"></a>pag7</h1>
+</body>
+</html>
